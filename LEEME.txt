@@ -1,0 +1,3 @@
+En el archivo configBuscaminas se coloca el tamano del tablero y la cantidad de bombas
+en el sitio donde se encuentra el numero (10 de tamano por default o 5 de bombas por default)
+hay que borrar el numero actual y colocar el numero deseado despues del _ sin espacios
